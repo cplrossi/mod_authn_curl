@@ -84,4 +84,4 @@ handled by the module itself.
 
 ## (Non) Community
 
-Maybe find someone on `#scrocco` on `irc.libera.chat` to complain.
+Maybe find someone on `#scroc.co` on `irc.libera.chat` to complain.
